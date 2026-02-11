@@ -2,7 +2,7 @@
 Contributors: pixelverbieger
 Tags: flamingo, contact form, cf7, address book
 Requires at least: 5.2
-Tested up to: 6.5
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 1.0
 License: GPLv2 or later
